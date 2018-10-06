@@ -3,12 +3,42 @@
     <title>Kennedy Opoku Asare</title>
     <link href="https://kennedyopokuasare.github.io/feed.xml" rel="self" />
     <link href="https://kennedyopokuasare.github.io" />
-    <updated>2018-10-07T00:42:04+03:00</updated>
+    <updated>2018-10-07T01:08:48+03:00</updated>
     <author>
         <name>Kennedy Opoku Asare</name>
     </author>
     <id>https://kennedyopokuasare.github.io</id>
 
+    <entry>
+        <title>Contact Me</title>
+        <author>
+            <name>Kennedy Opoku Asare</name>
+        </author>
+        <link href="https://kennedyopokuasare.github.io/contact-me/"/>
+        <id>https://kennedyopokuasare.github.io/contact-me/</id>
+
+        <updated>2018-10-07T01:08:41+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kennedyopokuasare.github.io/media/posts/5/" alt="" />
+                    Email me at kennedy.opokuasare@oulu.fi OnlineLinkedInTwitterGitHubGoogle ScholarResearch Gate
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://kennedyopokuasare.github.io/media/posts/5/" alt="" />
+                <p>Email me at <a href="mailto:kennedy.opokuasare@oulu.fi" target="_blank" rel="noopener noreferrer">kennedy.opokuasare@oulu.fi</a></p>
+<p><strong>Online</strong></p>
+<ul>
+<li><a href="https://fi.linkedin.com/in/kopokuasare" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+<li><a href="https://twitter.com/gyidiasare" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+<li><a href="https://github.com/kennedyopokuasare" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+<li><a href="https://scholar.google.fi/citations?user=nxpN9zcAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
+<li><a href="https://www.researchgate.net/profile/Kennedy_Opoku_Asare" target="_blank" rel="noopener noreferrer">Research Gate</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About Me</title>
         <author>
@@ -39,7 +69,7 @@
         <link href="https://kennedyopokuasare.github.io/cv/"/>
         <id>https://kennedyopokuasare.github.io/cv/</id>
 
-        <updated>2018-10-07T00:41:58+03:00</updated>
+        <updated>2018-10-07T00:47:31+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://kennedyopokuasare.github.io/media/posts/1/" alt="" />
@@ -129,7 +159,7 @@
 <p><strong>TEACHING</strong></p>
 <hr>
 <ul>
-<li> 2018 Teaching assistant for 521147S Mobile and Social Computing, 5 ECTS credits</li>
+<li>2018 Teaching assistant for 521147S Mobile and Social Computing, 5 ECTS credits</li>
 <li>2017, 2018 Teaching assistant for 521145A Human-Computer Interaction, 5 ECTS credits</li>
 <li>2018,2019 Teaching assistant for Applied Computing Project I &amp; II, 8 &amp; 10 ECTS credits </li>
 </ul>
@@ -139,7 +169,7 @@
 <p><br><strong>HONOURS AND AWARDS </strong></p>
 <hr>
 <ul>
-<li>Distinguished Project Award, <a href="http://ubicomp.oulu.fi/UBISS2017/" target="_blank" rel="noopener noreferrer">8th International UBI Summer School 2017</a> Oulu, Finland.</li>
+<li>Distinguished Project Award, <a href="http://ubicomp.oulu.fi/UBISS2017/" target="_blank" rel="noopener noreferrer">8th International UBI Summer School 2017</a> ,Oulu, Finland.</li>
 </ul>
 <p><strong>VOLUNTEER AND ORGANISATION WORK</strong> </p>
 <hr>
