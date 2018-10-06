@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://kennedyopokuasare.github.io/about-me-2/",
+            "url": "https://kennedyopokuasare.github.io/about-me-2/",
+            "title": "About Me",
+            "summary": "Hello I this , I am that",
+            "content_html": "Hello I this , I am that",
+            "image": "https://kennedyopokuasare.github.io/media/posts/4/",
+            "author": {
+                "name": "Kennedy Opoku Asare"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-06T14:49:02+03:00",
+            "date_modified": "2018-10-06T15:09:45+03:00"
+        },
+        {
             "id": "https://kennedyopokuasare.github.io/cv/",
             "url": "https://kennedyopokuasare.github.io/cv/",
             "title": "CV",

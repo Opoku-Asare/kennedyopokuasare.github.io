@@ -3,12 +3,34 @@
     <title>Kennedy Opoku Asare</title>
     <link href="https://kennedyopokuasare.github.io/feed.xml" rel="self" />
     <link href="https://kennedyopokuasare.github.io" />
-    <updated>2018-10-06T14:26:28+03:00</updated>
+    <updated>2018-10-06T15:09:53+03:00</updated>
     <author>
         <name>Kennedy Opoku Asare</name>
     </author>
     <id>https://kennedyopokuasare.github.io</id>
 
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Kennedy Opoku Asare</name>
+        </author>
+        <link href="https://kennedyopokuasare.github.io/about-me-2/"/>
+        <id>https://kennedyopokuasare.github.io/about-me-2/</id>
+
+        <updated>2018-10-06T15:09:45+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kennedyopokuasare.github.io/media/posts/4/" alt="" />
+                    Hello I this , I am that
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://kennedyopokuasare.github.io/media/posts/4/" alt="" />
+                Hello I this , I am that
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>CV</title>
         <author>
