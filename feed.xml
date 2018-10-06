@@ -3,7 +3,7 @@
     <title>Kennedy Opoku Asare</title>
     <link href="https://kennedyopokuasare.github.io/feed.xml" rel="self" />
     <link href="https://kennedyopokuasare.github.io" />
-    <updated>2018-10-06T23:44:09+03:00</updated>
+    <updated>2018-10-06T23:59:40+03:00</updated>
     <author>
         <name>Kennedy Opoku Asare</name>
     </author>
@@ -39,7 +39,7 @@
         <link href="https://kennedyopokuasare.github.io/cv/"/>
         <id>https://kennedyopokuasare.github.io/cv/</id>
 
-        <updated>2018-10-06T23:44:01+03:00</updated>
+        <updated>2018-10-06T23:57:32+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://kennedyopokuasare.github.io/media/posts/1/" alt="" />
@@ -84,10 +84,29 @@
 </ul>
 <p><strong>LINGUISTIC SKILLS</strong></p>
 <hr>
-<p>Mother tongue: Twi <br>Foreign Languages: English (Listening: C2, Reading: C2, Spoken interaction: C2, Spoken production: C2), Finnish (Listening: A2, Reading: A1, Spoken interaction: A1, Spoken production: A1) </p>
+<p>Mother tongue: Twi</p>
+<p>Foreign languages asessement based on <a href="https://europass.cedefop.europa.eu/resources/european-language-levels-cefr" target="_blank" rel="noopener noreferrer">europass european language levels</a></p>
 <ul>
-<li>Foreign languages asessement based on <a href="https://europass.cedefop.europa.eu/resources/european-language-levels-cefr" target="_blank" rel="noopener noreferrer">europass european language levels</a></li>
+<li>English (Listening: C2, Reading: C2, Spoken interaction: C2, Spoken production: C2)</li>
+<li>Finnish (Listening: A2, Reading: A1, Spoken interaction: A1, Spoken production: A1)</li>
 </ul>
+<p><strong>EXPERIENCE </strong></p>
+<hr>
+<p><strong>Doctoral researcher</strong>, Center for Ubiquitous Computing, University of Oulu, Finland<br> July 2018 – Date  </p>
+<ul>
+<li>Early stage research on anomalous human behaviour detection using entropy-based methods under the Academy of Finland SENSATE project  </li>
+</ul>
+<p><strong>Visiting Research and Development Engineer</strong>, Haltian Oy, Oulu, Finland <br>May 2018 – August 2018 </p>
+<ul>
+<li>Continuing research effort on Academy of Finland CARE project, scaling up CARE with Thingsee IOT platform, and building Web APIs for CARE database</li>
+</ul>
+<p><strong>Research Assistant</strong>, Center for Ubiquitous Computing, University of Oulu, Finland  <br>September 2017 – June 2018 </p>
+<ul>
+<li>Continuing research effort on the Academy of Finland funded CARE project; developing mobile application and conducting field studies. </li>
+<li>Master’s thesis research on the BusinessFinland funded S3-Simple Smart Sensor project related to smartphone data sensing from credit card sized NFC powered sensor board.</li>
+<li>Teaching assistant in Human Computer Interaction and Mobile and Social Computing course </li>
+</ul>
+<p>University Intern, Center for Ubiquitous Computing, University of Oulu, Finland  <br>June 2017- August 2017 <br>Assisting the research on the Academy of Finland funded CARE project <br>Monitoring CARE sensing infrastructure. <br>Developing the CARE android application using AWARE framework.  <br>Monitoring and Evaluation (M&amp;E) Consultant, UNICEF, Accra - Ghana  <br>November 2015 – August 2016 <br>Monitoring and evaluation of Key Performance Indicators of basic sanitation. <br>Providing technical backstopping, field training and capacity building for BASIS software scale up. <br>Software Developer, RITSoft Company Ltd, Accra - Ghana  <br>August 2012 – December 2015 <br>Full stack developer of software solutions; CSManager, an integrated Fund and loan management system, Pendama, a pension management system, and Mintesaa, a results-based monitoring and evaluation tool. <br>Providing technical backstopping and training for clients.   <br>Information Systems Assistant, Student Loan Trust Fund, Accra - Ghana  <br>October 2011 to July 2012 <br>Full stack developer of software solutions; Attendance management system, and Human Resource Performance Appraisal System.   <br>Providing technical backstopping and training for company staff.</p>
             ]]>
         </content>
     </entry>
